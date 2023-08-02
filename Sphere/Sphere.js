@@ -1,4 +1,3 @@
-//  Reference: https://codepen.io/pirobtumen/pen/vObLqR
 
 let numberOfParticles = 3000;
 let color = !true;
@@ -95,3 +94,6 @@ window.addEventListener("load", () => {
     centerY = canvas.height / 2;
   });
 });
+
+//  Reference: https://codepen.io/pirobtumen/pen/vObLqR
+
