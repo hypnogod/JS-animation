@@ -1,4 +1,4 @@
-// made by https://codepen.io/pirobtumen/pen/vObLqR
+//  Reference: https://codepen.io/pirobtumen/pen/vObLqR
 
 let numberOfParticles = 3000;
 let color = !true;
